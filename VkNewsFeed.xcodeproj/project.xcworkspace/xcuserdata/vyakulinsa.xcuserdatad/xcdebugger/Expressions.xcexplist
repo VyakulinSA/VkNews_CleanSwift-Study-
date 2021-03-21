@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GalleryCollectionView.set(photos:):GalleryCollectionView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RowLayout.prepare():RowLayout.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.frame.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsfeedViewController.tableView(_:cellForRowAt:):NewsfeedViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewsfeedCodeCell.set(viewModel:):NewsfeedCodeCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
